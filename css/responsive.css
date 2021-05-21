@@ -47,6 +47,7 @@ body{
   .col-1{
     width:100%;
     float:none;
+    margin-left:0;
   }
 
 }
