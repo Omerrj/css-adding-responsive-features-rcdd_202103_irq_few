@@ -49,5 +49,7 @@ body{
     float:none;
     margin-left:0;
   }
-
+.border-right{
+  border:0;
+}
 }
